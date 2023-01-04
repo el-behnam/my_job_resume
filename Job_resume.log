@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.30)  4 JAN 2023 14:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.30)  4 JAN 2023 15:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -554,14 +554,19 @@ Package hyperref Info: Link coloring OFF on input line 2.
 <Images/resume_photo.jpg, id=7, 4914.36pt x 4914.36pt>
 File: Images/resume_photo.jpg Graphic file (type jpg)
 <use Images/resume_photo.jpg>
-Package pdftex.def Info: Images/resume_photo.jpg  used on input line 23.
+Package pdftex.def Info: Images/resume_photo.jpg  used on input line 24.
 (pdftex.def)             Requested size: 85.35826pt x 85.3352pt.
-LaTeX Font Info:    Trying to load font information for U+fontawesometwo on input line 23.
+LaTeX Font Info:    Trying to load font information for U+fontawesometwo on input line 24.
  (f:/texlive/2022/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 28--31
+Underfull \hbox (badness 10000) in paragraph at lines 29--32
 
+ []
+
+
+Overfull \hbox (0.48296pt too wide) in paragraph at lines 4--33
+|  [][][]  [] 
  []
 
 [1
@@ -571,15 +576,15 @@ Package rerunfilecheck Info: File `Job_resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 21229 strings out of 476093
- 393931 string characters out of 5795582
+ 21230 strings out of 476093
+ 393951 string characters out of 5795582
  1855787 words of memory out of 5000000
- 41278 multiletter control sequences out of 15000+600000
+ 41279 multiletter control sequences out of 15000+600000
  514019 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 105i,11n,107p,459b,1044s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 105i,11n,107p,459b,1063s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {f:/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}<f:/texlive/2022/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><f:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><f:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><f:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><f:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><f:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb><f:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on Job_resume.pdf (1 page, 3146434 bytes).
+Output written on Job_resume.pdf (1 page, 3146449 bytes).
 PDF statistics:
  56 PDF objects out of 1000 (max. 8388607)
  37 compressed objects within 1 object stream
