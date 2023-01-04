@@ -1,0 +1,14 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc} % Required for inputting international characters
+\usepackage[margin=0pt]{geometry} % Set the margins to zero
+\usepackage{tabularx} % Required for the tabularx environment
+\usepackage{xcolor} % Required for color customization
+\usepackage{url}
+\usepackage{titlesec}
+
+\definecolor{my_strip}{HTML}{0B5345}
+
+\titleformat{\section}
+{\normalfont\Large\bfseries}{\thesection}{1em}{}[{\color{my_strip}\titlerule[0.8pt]}]
+\titleformat{\subsection}
+{\normalfont\Large\bfseries}{\thesection}{1em}{}[{\color{white}\titlerule[0.8pt]}]

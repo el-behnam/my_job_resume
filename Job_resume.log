@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.30)  2 JAN 2023 19:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.30)  3 JAN 2023 23:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -6,7 +6,7 @@ entering extended mode
 **f:/Files_and_codes/Job_resume/Job_resume
 (f:/Files_and_codes/Job_resume/Job_resume.tex
 LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2022-12-17> (f:/texlive/2022/texmf-dist/tex/latex/base/article.cls
+L3 programming layer <2022-12-17> (./preamble.tex (f:/texlive/2022/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
 (f:/texlive/2022/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
@@ -88,28 +88,39 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
 ) (f:/texlive/2022/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-) (f:/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+) (f:/texlive/2022/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
+\ttl@box=\box53
+\beforetitleunit=\skip52
+\aftertitleunit=\skip53
+\ttl@plus=\dimen156
+\ttl@minus=\dimen157
+\ttl@toksa=\toks22
+\titlewidth=\dimen158
+\titlewidthlast=\dimen159
+\titlewidthfirst=\dimen160
+)) (f:/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count197
-\l__pdf_internal_box=\box53
-)
-No file Job_resume.aux.
+\l__pdf_internal_box=\box54
+) (./Job_resume.aux)
 \openout1 = `Job_resume.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -147,35 +158,35 @@ LaTeX Font Info:    ... okay on input line 9.
 (f:/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count198
-\scratchdimen=\dimen156
-\scratchbox=\box54
+\scratchdimen=\dimen161
+\scratchbox=\box55
 \nofMPsegments=\count199
 \nofMParguments=\count266
-\everyMPshowfont=\toks22
+\everyMPshowfont=\toks23
 \MPscratchCnt=\count267
-\MPscratchDim=\dimen157
+\MPscratchDim=\dimen162
 \MPnumerator=\count268
 \makeMPintoPDFobject=\count269
-\everyMPtoPDFconversion=\toks23
+\everyMPtoPDFconversion=\toks24
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 21.
+(Font)              <9> on input line 14.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 21.
+(Font)              <6> on input line 14.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 21.
+(Font)              <5> on input line 14.
 
-Underfull \hbox (badness 10000) in paragraph at lines 21--21
+Underfull \hbox (badness 10000) in paragraph at lines 14--14
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 24--28
+Underfull \hbox (badness 10000) in paragraph at lines 18--21
 
  []
 
 
-Overfull \hbox (12.35551pt too wide) in paragraph at lines 11--29
+Overfull \hbox (12.35551pt too wide) in paragraph at lines 4--22
 [][][] [] 
  []
 
@@ -183,15 +194,15 @@ Overfull \hbox (12.35551pt too wide) in paragraph at lines 11--29
 
 {f:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./Job_resume.aux) ) 
 Here is how much of TeX's memory you used:
- 2275 strings out of 476093
- 34523 string characters out of 5795582
- 1850787 words of memory out of 5000000
- 22680 multiletter control sequences out of 15000+600000
+ 2579 strings out of 476093
+ 38643 string characters out of 5795582
+ 1851787 words of memory out of 5000000
+ 22975 multiletter control sequences out of 15000+600000
  515227 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,6n,62p,232b,376s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 60i,6n,65p,253b,388s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <f:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><f:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><f:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><f:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb><f:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on Job_resume.pdf (1 page, 59178 bytes).
+Output written on Job_resume.pdf (1 page, 59223 bytes).
 PDF statistics:
  33 PDF objects out of 1000 (max. 8388607)
  19 compressed objects within 1 object stream
